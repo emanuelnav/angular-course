@@ -1,6 +1,6 @@
 # AngularWishlist
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+A web applicattion made with Angular v11.2.5.
+The app is a wish list where you can keep track of the things that you want to do before you die. :)
 
 ## Development server
 
